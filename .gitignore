@@ -1,0 +1,20 @@
+# IDE / 编辑器配置
+.idea/
+.vscode/
+.continue/
+
+# 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go
+vendor/
+
+# 系统文件
+.DS_Store
+Thumbs.db
